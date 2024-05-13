@@ -2,13 +2,13 @@
 .container{
     background: #ffff;
     border-radius: 8px;
-    width: 480px;
+    width: 390px;
     padding: 24px;
     box-shadow: #797575 1px 1px 5px 2px;
 }
 .screen{
     border-radius: 8px;
-    margin: 14px 8px;
+    margin: 14px 4px;
     height: 100px;
     line-height: 100px;
     padding: 0 20px;
@@ -26,8 +26,8 @@
     text-align: center;
 }
 button{
-    width: 100px;
-    height: 80px;
+    width: 80px;
+    height: 60px;
     border-radius: 8px;
     outline: 0;
     color: white;
@@ -57,5 +57,5 @@ button{
     color: #000;
 }
 .twoCol{
-    width: 200px;
+    width: 160px;
 }
