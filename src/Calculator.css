@@ -5,6 +5,7 @@
     width: 390px;
     padding: 24px;
     box-shadow: #797575 1px 1px 5px 2px;
+    overflow: hidden;
 }
 .screen{
     border-radius: 8px;
